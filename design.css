@@ -10,7 +10,7 @@ body {
     padding: 10px;
 }
 
-.favorites {
+.favorites, .extra {
     color: white;
     font-family: verdana;
 }
